@@ -6,7 +6,7 @@
 2. Into classify_bot/ create a new directory called downloads/
 3. Into classify_bot/ create a new directory called images_test/
 2. Into classify_bot/ create a new directory called training_dataset/
-3. Into training_dataset/ create almost two new directories with the names foo/ and bar/
+3. Into trainning_dataset/ create almost two new directories with the names foo/ and bar/
 4. Into foo/ directory upload 30 images
 5. Into bar/ directory upload 30 images
 
